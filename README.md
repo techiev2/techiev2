@@ -2,6 +2,6 @@
 
 ### An engineer, poet, above all, a philosopher.
 
-- 🗞 In an earlier life, I built tech to enable [crisp](https://github.com/getcrispnews) [news summaries]([https://getcrisp.news](https://web.archive.org/web/20210923055818/https://getcrisp.news/national)).
+- 🗞 In an earlier life, I built tech to enable [crisp](https://github.com/getcrispnews) [news summaries](https://web.archive.org/web/20210923055818/https://getcrisp.news/national).
 - ✏️ In an alternative life that vies for attention, I write poetry and philosophy.
 - 🥳 Eclectic mix of life-sciences where I started, to AI/ML and general human psyche.
